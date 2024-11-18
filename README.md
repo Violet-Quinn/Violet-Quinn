@@ -9,7 +9,7 @@ I’m a passionate tech enthusiast with  a Master’s degree in Computer Applica
 📚 **Current Focus**  
 - Deepening my knowledge in machine learning algorithms and data science tools.  
 - Experimenting with projects involving natural language processing and computer vision.  
-- Strengthening my skills in libraries like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.  
+- Strengthening my skills in libraries like Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.  
 
 🚀 **Future Goals**  
 I aspire to become a data scientist or ML engineer, contributing to innovative projects that make a tangible impact in fields like healthcare, finance, and sustainability. I’m also keen on collaborative opportunities to learn and grow in this dynamic field.  
