@@ -1,4 +1,4 @@
-👨‍🎓 **Master’s Student in Computer Applications**  
+👨‍🎓 **Academics**  
 I’m a passionate tech enthusiast with  a Master’s degree in Computer Applications. My academic journey and personal projects revolve around leveraging technology to solve real-world problems, with a strong focus on Python programming, data analytics, and machine learning.  
 
 💻 **What I Do**  
